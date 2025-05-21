@@ -1,6 +1,6 @@
-# Spokane Roofing Company Website
+# Denver Roofing Company Website
 
-A modern, high-performance website for an established roofing company in Spokane, WA. Built with Next.js, TypeScript, and Tailwind CSS.
+A modern, high-performance website for an established roofing company in Denver, CO. Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Features
 
